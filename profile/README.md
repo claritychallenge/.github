@@ -6,6 +6,6 @@ For further information about the project please visit the [Clarity project webs
 
 Most repositories below are private and intended for use by project members (e.g., websites, development tools etc). 
 
-[`clarity_cc`](https://github.com/claritychallenge/clarity_CC) is a public repository providing the complete set of tools that have been provided to support the open enhancement and prediction challenges.
+[`clarity`](https://github.com/claritychallenge/clarity) is a public repository providing the complete set of tools that have been provided to support the open enhancement and prediction challenges.
 
 
