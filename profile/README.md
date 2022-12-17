@@ -4,8 +4,4 @@ This is the GitHub Organisation for the Clarity project.  Clarity is a UK-funded
 
 For further information about the project please visit the [Clarity project website](http://claritychallenge.org/).
 
-Most repositories below are private and intended for use by project members (e.g., websites, development tools etc). 
-
-[`clarity`](https://github.com/claritychallenge/clarity) is a public repository providing the complete set of tools that have been provided to support the open enhancement and prediction challenges.
-
-
+The [`clarity`](https://github.com/claritychallenge/clarity) repository provides tools are provided to support the Clarity project open enhancement and prediction challenges. We welcome people to use this code and to raise issues for improvements and new features.
